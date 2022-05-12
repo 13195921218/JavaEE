@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/项目-家庭收支记录/pom.xml" />
+        <option value="$PROJECT_DIR$/项目-用户管理系统/pom.xml" />
+        <option value="$PROJECT_DIR$/多线程/pom.xml" />
+        <option value="$PROJECT_DIR$/JDBC/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

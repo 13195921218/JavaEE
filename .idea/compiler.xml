@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="多线程" />
+        <module name="JDBC" />
+        <module name="项目-家庭收支记录" />
+        <module name="项目-用户管理系统" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JDBC" target="1.5" />
+      <module name="多线程" target="1.5" />
+      <module name="项目-家庭收支记录" target="1.5" />
+      <module name="项目-用户管理系统" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
